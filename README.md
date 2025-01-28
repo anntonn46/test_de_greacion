@@ -4,5 +4,5 @@ Aqui inicia todo
 
 para ejecutr el sistema debes poner 
 
-····rprm debes instlarlo····
+''''rprm debes instlarlo''''
 
